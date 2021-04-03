@@ -18,9 +18,6 @@
       }
     ],
     [
-      "@semantic-release/npm"
-    ],
-    [
       "@semantic-release/git",
       {
         "assets": [
